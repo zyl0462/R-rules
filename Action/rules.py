@@ -36,15 +36,11 @@ PROXY_URL = (('https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/ma
              'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Pinterest/Pinterest.list',
              'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/OpenAI/OpenAI.list')
             )
-DIRECT_URL = (('https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Alibaba/Alibaba_Domain.list',
-              'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Apple/Apple_Domain.list'),
-              ('https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Apple/Apple.list',
-              'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Alibaba/Alibaba.list',
-              'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/JingDong/JingDong.list',
-              'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AliPay/AliPay.list',
-              'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/WeChat/WeChat.list',
-              'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DouYin/DouYin.list',
-              'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ByteDance/ByteDance.list')
+DIRECT_URL = ('https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/JingDong/JingDong.list',
+              'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/AliPay/AliPay.list',
+              'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/WeChat/WeChat.list',
+              'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/DouYin/DouYin.list',
+              'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ByteDance/ByteDance.list'
              )
 
 tmp_set = set([i for i in get_text(REJECT_URL[0]).split("\n") if not (i.startswith('#') or i.startswith('!'))])
@@ -75,8 +71,8 @@ proxy_set.clear()
 for item in PROXY_URL[1]:
     proxy_set.update([i for i in get_text(item).split("\n") if not (i.startswith('#') or i.startswith('payload:'))])
 LEN_proxy = len(proxy_set)
-proxy_text = 'payload:\n' + '\n'.join(sorted(proxy_set))
-with open("./Rules/proxy.yaml", "w",encoding='utf-8') as f:
+proxy_text = '\n'.join(sorted(proxy_set))
+with open("./Rules/proxy.list", "w",encoding='utf-8') as f:
     f.write(proxy_text)
 del proxy_set,proxy_text
 
@@ -84,8 +80,8 @@ direct_set = set()
 for item in DIRECT_URL:
     direct_set.update([i for i in get_text(item).split("\n") if not (i.startswith('#') or i.startswith('payload:'))])
 LEN_direct = len(direct_set)
-direct_text = 'payload:\n' + '\n'.join(sorted(direct_set))
-with open("./Rules/direct.yaml", "w",encoding='utf-8') as f:
+direct_text = '\n'.join(sorted(direct_set))
+with open("./Rules/direct.list", "w",encoding='utf-8') as f:
     f.write(direct_text)
 del direct_set,direct_text
 
