@@ -1,0 +1,33 @@
+name: rules
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 0,12 * * *'
+  pull_request:
+    branches: [ "main" ]   
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Run rules
+        run: python Action/rules.py
+
+      - name: Commit files
+        run: |
+          git config --local user.email "zy0462@gmail.com"
+          git config --local user.name "zyl0462"
+          git add ./*
+          git rm -f ./Rules/tmp
+          git commit -a -m "Update rules"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
