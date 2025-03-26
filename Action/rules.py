@@ -43,7 +43,7 @@ DIRECT_URL = ('https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/ma
               'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ByteDance/ByteDance.list'
              )
 
-tmp_set = set([i for i in get_text(REJECT_URL[0]).split("\n") if not (i.startswith('#') or i.startswith('!'))])
+tmp_set = set([i for i in get_text(REJECT_URL[0]).split("\n") if not ((len(i) == 0) or i.startswith('#') or i.startswith('!'))])
 tmp_set.update([i[2:-1] for i in get_text(REJECT_URL[1]).split("\n") if (i.startswith('||') and i.endswith('^') and ( not ('*' in i)))])
 reject_set = set()
 j = ''
@@ -62,7 +62,7 @@ del reject_set,reject_text
 
 proxy_set = set()
 for item in PROXY_URL[0]:
-    proxy_set.update([i for i in get_text(item).split("\n") if not (i.startswith('#') or i.startswith('!'))])
+    proxy_set.update([i for i in get_text(item).split("\n") if not ((len(i) == 0) or i.startswith('#') or i.startswith('!'))])
 LEN_proxy_domain = len(proxy_set)
 proxy_text = '\n'.join(sorted(proxy_set))
 with open("./Rules/proxy.txt", "w",encoding='utf-8') as f:
@@ -70,7 +70,7 @@ with open("./Rules/proxy.txt", "w",encoding='utf-8') as f:
 
 proxy_set.clear()
 for item in PROXY_URL[1]:
-    proxy_set.update([i for i in get_text(item).split("\n") if not (i.startswith('#') or i.startswith('!'))])
+    proxy_set.update([i for i in get_text(item).split("\n") if not ((len(i) == 0) or i.startswith('#') or i.startswith('!'))])
 LEN_proxy = len(proxy_set)
 proxy_text = '\n'.join(sorted(proxy_set))
 with open("./Rules/proxy.list", "w",encoding='utf-8') as f:
@@ -79,7 +79,7 @@ del proxy_set,proxy_text
 
 direct_set = set()
 for item in DIRECT_URL:
-    direct_set.update([i for i in get_text(item).split("\n") if not (i.startswith('#') or i.startswith('!'))])
+    direct_set.update([i for i in get_text(item).split("\n") if not ((len(i) == 0) or i.startswith('#') or i.startswith('!'))])
 LEN_direct = len(direct_set)
 direct_text = '\n'.join(sorted(direct_set))
 with open("./Rules/direct.list", "w",encoding='utf-8') as f:
