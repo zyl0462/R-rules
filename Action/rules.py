@@ -16,7 +16,7 @@ def get_text(url):
 
 ############################################################  
 ############################################################
-REJECT_URL = ('https://anti-ad.net/surge2.txt',
+REJECT_URL = ('https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt',
              'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt')
 PROXY_URL = (('https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Proxy/Proxy_Domain.list',
              'https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/gfw.txt'),
@@ -43,17 +43,8 @@ DIRECT_URL = ('https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/ma
               'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ByteDance/ByteDance.list'
              )
 
-tmp_set = set([i for i in get_text(REJECT_URL[0]).split("\n") if not ((len(i) == 0) or i.startswith('#') or i.startswith('!'))])
-tmp_set.update([i[2:-1] for i in get_text(REJECT_URL[1]).split("\n") if (i.startswith('||') and i.endswith('^') and ( not ('*' in i)))])
-reject_set = set()
-j = ''
-for i in tmp_set:
-    if not i.startswith('.'):
-        j = '.' + i
-    else:
-        j = i
-    reject_set.add(j)
-tmp_set.clear()
+reject_set = set([i for i in get_text(REJECT_URL[0]).split("\n") if not ((len(i) == 0) or i.startswith('#') or i.startswith('!'))])
+reject_set.update([i[2:-1] for i in get_text(REJECT_URL[1]).split("\n") if (i.startswith('||') and i.endswith('^') and ( not ('*' in i)))])
 LEN_reject = len(reject_set)
 reject_text = '\n'.join(sorted(reject_set))
 with open("./Rules/reject.txt", "w",encoding='utf-8') as f:
