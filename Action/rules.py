@@ -18,7 +18,7 @@ def get_text(url):
 ############################################################
 REJECT_URL = ('https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt',
              'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt')
-PROXY_URL = (('https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Proxy/Proxy_Domain.list',
+PROXY_URL = (('https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Proxy/Proxy_Domain.txt',
              'https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/gfw.txt'),
              ('https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Proxy/Proxy.list',
              'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/AppleTV/AppleTV.list',
