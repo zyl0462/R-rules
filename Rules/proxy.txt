@@ -52,8 +52,6 @@
 .2047.one
 .2049bbs.xyz
 .21andy.com
-.21join.com
-.21pron.com
 .21sextury.com
 .228.net.tw
 .233abc.com
@@ -643,6 +641,7 @@
 .biantailajiao.com
 .biantailajiao.in
 .biblesforamerica.org
+.bibliocommons.com
 .bibox.com
 .bic2011.org
 .biedian.me
@@ -893,7 +892,6 @@
 .bsky.app
 .bsky.network
 .bsky.social
-.bt2mag.com
 .bt95.com
 .btaia.com
 .btbit.net
@@ -1082,6 +1080,7 @@
 .cfhks.org.hk
 .cfos.de
 .cfr.org
+.cfsh99.com
 .cftfc.com
 .cgdepot.org
 .cgst.edu
@@ -1343,6 +1342,7 @@
 .com.uk
 .comedycentral.com
 .comefromchina.com
+.comffvpn.com
 .comic-mega.me
 .comico.tw
 .commandarms.com
@@ -1507,15 +1507,14 @@
 .dastrassi.org
 .data-vocabulary.org
 .data.gov.tw
+.datalabour.com
 .daum.net
 .david-kilgour.com
 .dawangidc.com
 .daxa.cn
-.dayabook.com
 .daylife.com
 .dayone.me
 .db.tt
-.dbc.hk
 .dbgjd.com
 .dcard.tw
 .dcmilitary.com
@@ -1572,6 +1571,7 @@
 .dhcp.biz
 .diaoyuislands.org
 .difangwenge.org
+.dify.ai
 .digicert.com
 .digiland.tw
 .digisfera.com
@@ -1880,8 +1880,6 @@
 .esg.t91y.com
 .eslite.com
 .esmtp.biz
-.esu.dog
-.esu.im
 .esurance.com
 .etaa.org.au
 .etadult.com
@@ -1898,7 +1896,6 @@
 .etsy.com
 .ettoday.net
 .etvonline.hk
-.eu.org
 .eucasino.com
 .eulam.com
 .eurekavpt.com
@@ -2023,8 +2020,6 @@
 .fastssh.com
 .faststone.org
 .fatbtc.com
-.favotter.net
-.favstar.fm
 .fawanghuihui.org
 .faydao.com
 .faz.net
@@ -2036,15 +2031,11 @@
 .fbsbx.com
 .fbworkmail.com
 .fc2.com
-.fc2blog.net
-.fc2china.com
 .fc2cn.com
 .fc2web.com
 .fda.gov.tw
-.fdbox.com
 .fdc64.de
 .fdc64.org
-.fdc89.jp
 .feedburner.com
 .feeder.co
 .feedly.com
@@ -2062,8 +2053,6 @@
 .fengzhenghu.net
 .fevernet.com
 .ff.im
-.fffff.at
-.fflick.com
 .ffvpn.com
 .fgmtv.net
 .fgmtv.org
@@ -2094,6 +2083,7 @@
 .fireofliberty.org
 .firetweet.io
 .firstfivefollowers.com
+.firstory.me
 .firstpost.com
 .firstrade.com
 .fish.audio
@@ -2237,7 +2227,6 @@
 .freeyoutubeproxy.net
 .freezhihu.org
 .frienddy.com
-.friendfeed-media.com
 .friendfeed.com
 .friends-of-tibet.org
 .friendsoftibet.org
@@ -2270,6 +2259,7 @@
 .fullerconsideration.com
 .fullservicegame.com
 .fulue.com
+.funami.tech
 .funf.tw
 .funkyimg.com
 .funp.com
@@ -2469,7 +2459,6 @@
 .goagent.biz
 .goagent.codeplex.com
 .goagentplus.com
-.gobet.cc
 .godaddy.com
 .godfootsteps.org
 .godns.work
@@ -2489,13 +2478,11 @@
 .golden-ages.org
 .goldeneyevault.com
 .goldenfrog.com
-.goldjizz.com
 .goldstep.net
 .goldwave.com
 .gongm.in
 .gongmeng.info
 .gongminliliang.com
-.gongwt.com
 .goo.gl
 .goo.gle
 .goo.ne.jp
@@ -2821,11 +2808,6 @@
 .h528.com
 .h5dm.com
 .h5galgame.me
-.hacg.club
-.hacg.in
-.hacg.li
-.hacg.me
-.hacg.red
 .hacken.cc
 .hacker.org
 .hackmd.io
@@ -2844,7 +2826,7 @@
 .haproxy.org
 .hardsextube.com
 .harunyahya.com
-.hasi.wang
+.hatena.ne.jp
 .hautelook.com
 .hautelookcdn.com
 .have8.com
@@ -3381,7 +3363,6 @@
 .japantimes.co.jp
 .jav.com
 .jav101.com
-.jav2be.com
 .jav321.com
 .jav68.tv
 .javakiba.org
@@ -3433,10 +3414,8 @@
 .jinhai.de
 .jinpianwang.com
 .jinrizhiyi.news
-.jinroukong.com
 .jintian.net
 .jinx.com
-.jiruan.net
 .jitouch.com
 .jitpack.io
 .jizzthis.com
@@ -3449,7 +3428,6 @@
 .jmscult.com
 .joachims.org
 .jobnewera.wordpress.com
-.jobso.tv
 .joinbbs.net
 .joinclubhouse.com
 .joinmastodon.org
@@ -3767,6 +3745,7 @@
 .longtoes.com
 .lookpic.com
 .looktoronto.com
+.lorenzetti.com.br
 .lotsawahouse.org
 .lotuslight.org.hk
 .lotuslight.org.tw
@@ -3920,7 +3899,6 @@
 .meltoday.com
 .memehk.com
 .memes.tw
-.memorybbs.com
 .memri.org
 .memrijttm.org
 .mercari.com
@@ -3940,6 +3918,7 @@
 .messenger.com
 .meta.com
 .metacafe.com
+.metacubex.one
 .metafilter.com
 .metart.com
 .metarthunter.com
@@ -3949,16 +3928,14 @@
 .metrolife.ca
 .metroradio.com.hk
 .mewe.com
-.meyou.jp
-.meyul.com
 .mfxmedia.com
 .mgoon.com
 .mgstage.com
 .mh4u.org
 .mhradio.org
-.michaelanti.com
 .michaelmarketl.com
 .microsoft-falcon.io
+.microsoft.com
 .microsoftapp.net
 .microsofttranslator.com
 .microvpn.com
@@ -4084,6 +4061,7 @@
 .movements.org
 .moves-export.com
 .moviefap.com
+.mozilla.org
 .moztw.org
 .mp3buscador.com
 .mpettis.com
@@ -4301,7 +4279,6 @@
 .newsdh.com
 .newsmagazine.asia
 .newsmax.com
-.newspeak.cc
 .newstamago.com
 .newstapa.org
 .newstarnet.com
@@ -4398,10 +4375,10 @@
 .npa.gov.tw
 .npm.gov.tw
 .npnt.me
-.nps.gov
 .npsboost.com
 .nradio.me
 .nrk.no
+.ns.ci
 .ns01.biz
 .ns01.info
 .ns01.us
@@ -4450,6 +4427,7 @@
 .nyaa.si
 .nybooks.com
 .nydus.ca
+.nyinfor.com
 .nylon-angel.com
 .nylonstockingsonline.com
 .nypost.com
@@ -4519,6 +4497,7 @@
 .on.cc
 .on2.com
 .onapp.com
+.one.one
 .one.one.one.one
 .onedrive.com
 .onedrive.live.com
@@ -4744,18 +4723,7 @@
 .pinimg.com
 .pinkrod.com
 .pinoy-n.com
-.pinterest.at
-.pinterest.ca
-.pinterest.co.kr
-.pinterest.co.uk
 .pinterest.com
-.pinterest.com.mx
-.pinterest.de
-.pinterest.dk
-.pinterest.fr
-.pinterest.jp
-.pinterest.nl
-.pinterest.se
 .pioneer-worker.forums-free.com
 .pipii.tv
 .piposay.com
@@ -4864,7 +4832,6 @@
 .ppy.sh
 .prayforchina.net
 .prcleader.org
-.premeforwindows7.com
 .premproxy.com
 .presentation.new
 .presentationzen.com
@@ -4912,7 +4879,6 @@
 .psiphontoday.com
 .pstatic.net
 .pt.im
-.pts.org.tw
 .ptt.cc
 .pttgame.com
 .pttvan.org
@@ -4920,6 +4886,7 @@
 .pubu.com.tw
 .puffinbrowser.com
 .puffstore.com
+.pugpig.com
 .pullfolio.com
 .punyu.com
 .pure18.com
@@ -4938,7 +4905,6 @@
 .putihome.org
 .putlocker.com
 .putty.org
-.puuko.com
 .pwned.com
 .pximg.net
 .python.com
@@ -5019,15 +4985,12 @@
 .rapidmoviez.com
 .rapidvpn.com
 .rarbgprx.org
-.raremovie.cc
-.raremovie.net
 .rateyourmusic.com
 .rationalwiki.org
 .raw.githack.com
 .rawgit.com
 .rawgithub.com
 .raxcdn.com
-.razyboard.com
 .rcam.target.com
 .rcinet.ca
 .rconversation.blogs.com
@@ -5070,6 +5033,7 @@
 .referer.us
 .reflectivecode.com
 .registry.google
+.reimu.net
 .relaxbbs.com
 .relay.com.tw
 .relay.firefox.com
@@ -5255,7 +5219,6 @@
 .sendsmtp.com
 .sendspace.com
 .sensortower.com
-.seraph.me
 .servehttp.com
 .serveuser.com
 .serveusers.com
@@ -5292,6 +5255,7 @@
 .shadowsocks.be
 .shadowsocks.com
 .shadowsocks.com.hk
+.shadowsocks.nu
 .shadowsocks.org
 .shadowsocks9.com
 .shadowverse.jp
@@ -5594,6 +5558,7 @@
 .static.comico.tw
 .static.shemalez.com
 .static01.nyt.com
+.statically.io
 .staticflickr.com
 .statueofdemocracy.org
 .stboy.net
@@ -5630,13 +5595,13 @@
 .straplessdildo.com
 .streamable.com
 .streamate.com
+.streamguys1.com
 .streamingthe.net
 .streema.com
 .streetvoice.com
 .strikingly.com
 .strongvpn.com
 .strongwindpress.com
-.student.tw
 .studentsforafreetibet.org
 .stumbleupon.com
 .stupidvideos.com
@@ -5865,8 +5830,6 @@
 .thegly.com
 .theguardian.com
 .thehindu.com
-.thehots.info
-.thehousenews.com
 .thehun.net
 .theinitium.com
 .themoviedb.org
@@ -5884,7 +5847,6 @@
 .thetibetconnection.org
 .thetibetmuseum.org
 .thetibetpost.com
-.thetinhat.com
 .thetrotskymovie.com
 .thetvdb.com
 .theverge.com
@@ -5904,6 +5866,7 @@
 .threads.net
 .threatchaos.com
 .throughnightsfire.com
+.thu.monster
 .thuhole.com
 .thumbzilla.com
 .thywords.com
@@ -6369,6 +6332,7 @@
 .unity3d.com
 .unix100.com
 .unknownspace.org
+.unlock-music.dev
 .unmineable.com
 .unodedos.com
 .unpo.org
@@ -6653,7 +6617,6 @@
 .warehouse333.com
 .warroom.org
 .waselpro.com
-.washeng.net
 .washingtonpost.com
 .watch8x.com
 .watchinese.com
@@ -6777,7 +6740,6 @@
 .wikiversity.org
 .wikivoyage.org
 .wikiwand.com
-.wikiwiki.jp
 .wiktionary.org
 .wildammo.com
 .williamhill.com
@@ -6789,7 +6751,6 @@
 .wingamestore.com
 .wingy.site
 .winning11.com
-.winwhispers.info
 .wionews.com
 .wire.com
 .wiredbytes.com
@@ -6797,7 +6758,6 @@
 .wireguard.com
 .wisdompubs.org
 .wisevid.com
-.wistia.com
 .withgoogle.com
 .withyoutube.com
 .witnessleeteaching.com
@@ -6922,9 +6882,7 @@
 .x.co
 .x.com
 .x.company
-.x1949x.com
 .x24hr.com
-.x365x.com
 .x3guide.com
 .xa.yimg.com
 .xanga.com
@@ -7041,6 +6999,7 @@
 .yam.org.tw
 .yande.re
 .yandex.com
+.yandex.net
 .yandex.ru
 .yanghengjun.com
 .yangjianli.com
@@ -7139,7 +7098,6 @@
 .zalmos.com
 .zamimg.com
 .zannel.com
-.zaobao.com
 .zaobao.com.sg
 .zaozon.com
 .zapto.org
@@ -7236,8 +7194,6 @@ assets-priconne-redive-us.akamaized.net
 cloud.oracle.com
 cvws.icloud-content.com
 developer.apple.com
-location.microsoft.com
 login.microsoftonline.com
-self.events.data.microsoft.com
 testflight.apple.com
 voice.telephony.goog
