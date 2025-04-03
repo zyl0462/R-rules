@@ -1,6 +1,6 @@
-#2025/04/03 09:07:27(UTC/GMT+08:00)
-reject rules(136475+72): 136547
+#2025/04/03 20:28:10(UTC/GMT+08:00)
+reject rules(136547+10): 136557
 proxy-domain rules(7199+0): 7199
 proxy rules(2961+0): 2961
 direct rules(635+0): 635
-total rules(147270+72): 147342
+total rules(147342+10): 147352
