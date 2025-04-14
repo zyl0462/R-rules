@@ -129,6 +129,7 @@
 .85st.com
 .881903.com
 .888.com
+.8888.google
 .888poker.com
 .89-64.org
 .89.64.charter.constitutionalism.solutions
@@ -1299,6 +1300,7 @@
 .cloud.dify.ai
 .cloud.mail.ru
 .cloudcone.com
+.cloudflare-dns.com
 .cloudflare-ipfs.com
 .cloudflare.com
 .cloudfront.net
@@ -2057,6 +2059,7 @@
 .fangongheike.com
 .fanhaodang.com
 .fanhaolou.com
+.fani.com
 .fanqiang.network
 .fanqiang.tk
 .fanqiangdang.com
@@ -2081,6 +2084,7 @@
 .faststone.org
 .fatakat-n.club
 .fatbtc.com
+.favcomic.com
 .favotter.net
 .favstar.fm
 .fawanghuihui.org
@@ -2889,6 +2893,7 @@
 .gzm.tv
 .gzone-anime.info
 .h-china.org
+.h-ciyuan.com
 .h-moe.com
 .h1n1china.org
 .h528.com
@@ -3945,6 +3950,7 @@
 .mansion.com
 .mansionpoker.com
 .manta.com
+.manwa.me
 .manyvoices.news
 .maplew.com
 .marc.info
@@ -5518,6 +5524,7 @@
 .sina.com.hk
 .sina.com.tw
 .sinchew.com.my
+.sing-box.sagernet.org
 .singaporepools.com.sg
 .singfortibet.com
 .singlelogin.se
@@ -5647,6 +5654,7 @@
 .sosad.fun
 .sosreader.com
 .sostibet.org
+.sotwe.com
 .sou-tong.org
 .soubory.com
 .soul-plus.net
@@ -5719,6 +5727,7 @@
 .ssh91.com
 .ssl.webpack.de
 .ssl443.org
+.ssm.fun
 .sspanel.net
 .sspanel.org
 .sspro.ml
@@ -6063,6 +6072,7 @@
 .thlib.org
 .thomasbernhard.org
 .thongdreams.com
+.thotsbay.tv
 .threadreaderapp.com
 .threads.net
 .threatchaos.com
@@ -6638,6 +6648,7 @@
 .v.gd
 .v.roucdn
 .v2.help
+.v2.hysteria.network
 .v2ex.co
 .v2ex.com
 .v2fly.org
