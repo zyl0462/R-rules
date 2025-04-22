@@ -141,7 +141,6 @@
 .85st.com
 .881903.com
 .888.com
-.8888.google
 .888poker.com
 .89-64.org
 .89.64.charter.constitutionalism.solutions
@@ -1906,6 +1905,7 @@
 .emule-ed2k.com
 .emulefans.com
 .emuparadise.me
+.en.favotter.net
 .en.hao123.com
 .enanyang.my
 .encrypt.me
@@ -2077,7 +2077,6 @@
 .fandom.com
 .fangbinxing.com
 .fangeming.com
-.fangeming.comffvpn.com
 .fangeqiang.com
 .fanglizhi.info
 .fangmincn.org
@@ -2846,6 +2845,7 @@
 .got-game.org
 .gotdns.ch
 .gotgeeks.com
+.gotquestions.org
 .gotrusted.com
 .gotw.ca
 .gov.taipei
@@ -3283,6 +3283,7 @@
 .identi.ca
 .idiomconnection.com
 .idlcoyote.com
+.idope.se
 .idouga.com
 .idreamx.com
 .idsam.com
@@ -4677,7 +4678,6 @@
 .on2.com
 .onapp.com
 .one.one
-.one.one.one.one
 .onedrive.com
 .onedrive.live.com
 .onedumb.com
@@ -5351,7 +5351,6 @@
 .s3-ap-southeast-1.amazonaws.com
 .s3-ap-southeast-2.amazonaws.com
 .s3.amazonaws.com
-.s3.eu-central-1.amazonaws.com
 .s4miniarchive.com
 .s8forum.com
 .sa.hao123.com
@@ -5561,7 +5560,6 @@
 .sina.com.hk
 .sina.com.tw
 .sinchew.com.my
-.sing-box.sagernet.org
 .singaporepools.com.sg
 .singfortibet.com
 .singlelogin.app
@@ -5847,6 +5845,7 @@
 .stupidvideos.com
 .stweetly.com
 .subacme.rerouted.org
+.subhd.tv
 .substack.com
 .successfn.com
 .suche.gmx.net
@@ -6689,7 +6688,6 @@
 .v.gd
 .v.roucdn
 .v2.help
-.v2.hysteria.network
 .v2ex.co
 .v2ex.com
 .v2fly.org
@@ -6739,6 +6737,7 @@
 .video.aol.co.uk
 .video.aol.com
 .video.ap.org
+.video.fdbox.com
 .video.foxbusiness.com
 .videobam.com
 .videodetective.com
