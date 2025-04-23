@@ -503,7 +503,6 @@
 .audiomack.com
 .audionow.com
 .auntology.fandom.com
-.auth.openai.com
 .authorizeddns.net
 .authorizeddns.org
 .authorizeddns.us
