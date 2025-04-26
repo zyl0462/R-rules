@@ -2846,7 +2846,6 @@
 .got-game.org
 .gotdns.ch
 .gotgeeks.com
-.gotquestions.org
 .gotrusted.com
 .gotw.ca
 .gov.taipei
@@ -3284,7 +3283,6 @@
 .identi.ca
 .idiomconnection.com
 .idlcoyote.com
-.idope.se
 .idouga.com
 .idreamx.com
 .idsam.com
@@ -5851,7 +5849,6 @@
 .stupidvideos.com
 .stweetly.com
 .subacme.rerouted.org
-.subhd.tv
 .substack.com
 .successfn.com
 .suche.gmx.net
