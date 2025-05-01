@@ -10649,7 +10649,6 @@ ads.akaup.com
 ads.alaatv.com
 ads.aland.com
 ads.alobacsi.vn
-ads.annonsbladet.com
 ads.aol.co.uk
 ads.aphex.me
 ads.api.my7v.com
@@ -14326,6 +14325,9 @@ analytics.academy.com
 analytics.ad.daum.net
 analytics.adam.page
 analytics.adfreetime.com
+analytics.adjust.com
+analytics.adjust.net.in
+analytics.adjust.world
 analytics.adliners.de
 analytics.admon.com.vn
 analytics.adobe.io
@@ -25326,6 +25328,7 @@ cdn-settings.segment.com
 cdn-sitegainer.com
 cdn-t.b5c1d2e8c9982e3b965a27ac72ru7284cc.com
 cdn-t.vb24131crasosnemesis.com
+cdn-v3.conductrics.net
 cdn.007moms.com
 cdn.0i-i0.com
 cdn.1vag.com
@@ -44873,6 +44876,7 @@ event-stream.spot.im
 event-tracker-library.mediaownerscloud.com
 event-tracking.deliverr.com
 event-tracking.hellohealthgroup.com
+event-us.ssp.taxssp.com
 event.api.drift.com
 event.atosmedical.com
 event.boozallen.com
@@ -44903,6 +44907,7 @@ event.karrotmarket.com
 event.lib.visumo.io
 event.mackeeper.com
 event.mazars.nl
+event.meloshort.com
 event.msi.com
 event.newsbreak.com
 event.northghost.com
@@ -54784,6 +54789,7 @@ herring.artemis.cloud
 herring.panda.network
 herringgloomilytennis.com
 herryimmixed.com
+hersfohiplace.org
 herslenderw.info
 hersminkish.top
 hertouchingthew.com
@@ -79738,6 +79744,7 @@ mosquito.zero.io
 mosrtaek.net
 mosseegneertoo.xyz
 mosspf.com
+mosspf.net
 mossru.com
 mostat.wps.cn
 mostauthor.com
@@ -84494,6 +84501,7 @@ okokw.com
 okoshechka.net
 okpl04301ai.com
 okpl05010ai.com
+okpl05011ai.com
 okpp01021.xyz
 okpp01030.xyz
 okpp01031.xyz
@@ -93036,6 +93044,8 @@ qqjar.ru
 qqjfvepr.com
 qqmzen.elfadistrelec.no
 qqnmon.keeps.com
+qqosk05010llo.com
+qqosk05011llo.com
 qqpcao.newport.fi
 qqppz.com
 qqq937.com
@@ -126528,7 +126538,6 @@ twoeej.carrefour.fr
 twoepidemic.com
 twpasol.com
 twpcbx.ullapopken.at
-twqtf.boats
 twrank.com
 twrdzmduxxfjm.world
 twsdne.petenkoiratarvike.com
@@ -127805,6 +127814,7 @@ unwontcajun.top
 unwoobater.com
 unwritmirific.com
 unwrittenspot.com
+unwuamt.top
 unylgxxmrsbb.com
 unyzea.aboutyou.sk
 unzpc.com
@@ -130743,6 +130753,7 @@ vmjr.cn
 vmkjsc.nanajean.co.kr
 vmkoqak.com
 vmkxcsss.ru
+vmlrxs.top
 vmm-satellite1.com
 vmmcdn.com
 vmmpxl.com
@@ -137643,6 +137654,7 @@ yak.gregsullivan.com
 yakmakhond.top
 yaksgwrkhufex.com
 yallarec.com
+yaltchoaiz.com
 yam.adsbro.com
 yama1hove.com
 yamanaisleepry.com
