@@ -381,7 +381,6 @@
 .api-verify.recaptcha.net
 .api.ai
 .api.amplitude.com
-.api.linksalpha.com
 .api.mixpanel.com
 .api.proxlet.com
 .api.pureapk.com
@@ -389,7 +388,6 @@
 .api.steampowered.com
 .api.termius.com
 .apiary.io
-.apidocs.linksalpha.com
 .apigee.com
 .apk-dl.com
 .apk.support
@@ -1851,7 +1849,6 @@
 .entermap.com
 .entnt.com
 .entrust.net
-.epa.gov.tw
 .epac.to
 .episcopalchurch.org
 .epochhk.com
@@ -2440,6 +2437,7 @@
 .githubusercontent.com
 .gitlab.com
 .gitlab.io
+.gitlab.net
 .gitmemory.com
 .gizlen.net
 .gjczz.com
@@ -2886,7 +2884,6 @@
 .helloss.pw
 .hellotxt.com
 .hellouk.org
-.help.linksalpha.com
 .helpeachpeople.com
 .helplinfen.com
 .helpshift.com
@@ -4479,7 +4476,6 @@
 .ntdtv.ru
 .ntdtvla.com
 .ntrfun.com
-.ntsna.gov.tw
 .ntu.edu.tw
 .nu.nl
 .nubiles.net
@@ -6521,7 +6517,6 @@
 .use.typekit.net
 .usefreevpn.com
 .usembassy.gov
-.userapi.nytlog.com
 .usercontent.goog
 .users.skynet.be
 .usertrust.com
@@ -7001,7 +6996,6 @@
 .www.kindleren.com
 .www.klip.me
 .www.lib.virginia.edu
-.www.linksalpha.com
 .www.lorenzetti.com.br
 .www.m-sport.co.uk
 .www.monlamit.org
