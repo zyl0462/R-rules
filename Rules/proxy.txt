@@ -1736,6 +1736,7 @@
 .dw-world.de
 .dw.com
 .dw.de
+.dweb.link
 .dwheeler.com
 .dwnews.com
 .dwnews.net
@@ -3307,6 +3308,7 @@
 .ipalter.com
 .ipdefenseforum.com
 .ipfire.org
+.ipfs.4everland.io
 .ipfs.io
 .iphone4hongkong.com
 .iphonehacks.com
@@ -4370,6 +4372,7 @@
 .nflximg.net
 .nflxso.net
 .nflxvideo.net
+.nftstorage.link
 .ng.mil
 .nga.mil
 .ngensis.com
@@ -5707,6 +5710,7 @@
 .storj.io
 .storm.mg
 .stormmediagroup.com
+.storry.tv
 .stoweboyd.com
 .straitstimes.com
 .stranabg.com
@@ -6735,6 +6739,7 @@
 .w.org
 .w.wiki
 .w3.org
+.w3s.link
 .w3schools.com
 .waffle1999.com
 .wahas.com
