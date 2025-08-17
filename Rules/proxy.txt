@@ -4690,6 +4690,7 @@
 .palmislife.com
 .paltalk.com
 .panamapapers.sueddeutsche.de
+.pancakeswap.finance
 .pandafan.pub
 .pandapow.co
 .pandapow.net
@@ -4770,6 +4771,7 @@
 .perplexity.ai
 .persecutionblog.com
 .persiankitty.com
+.pewresearch.org
 .pfd.org.hk
 .phapluan.org
 .phayul.com
@@ -4937,6 +4939,7 @@
 .prisoneralert.com
 .pritunl.com
 .privacybox.de
+.privacyguides.org
 .private.com
 .privateinternetaccess.com
 .privatepaste.com
