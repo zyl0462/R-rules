@@ -383,6 +383,7 @@
 .api.ai
 .api.amplitude.com
 .api.mixpanel.com
+.api.palworldgame.com
 .api.proxlet.com
 .api.pureapk.com
 .api.recaptcha.net
@@ -4554,6 +4555,7 @@
 .ocry.com
 .ocsp.int-x3.letsencrypt.org
 .october-review.org
+.octocaptcha.com
 .oculus.com
 .oculuscdn.com
 .odysee.com
