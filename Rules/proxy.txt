@@ -231,6 +231,7 @@
 .ai-kan.net
 .ai-wen.net
 .ai.binwang.me
+.ai.dev
 .aiosearch.com
 .aiph.net
 .airasia.com
