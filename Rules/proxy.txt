@@ -4311,6 +4311,7 @@
 .name.com
 .namgyal.org
 .namgyalmonastery.org
+.namu.wiki
 .nanopool.org
 .nanyang.com
 .nanyangpost.com
@@ -4846,6 +4847,7 @@
 .picgo.net
 .picidae.net
 .picjs.xyz
+.picsart.com
 .picturedip.com
 .picturesocial.com
 .picuki.com
