@@ -271,6 +271,7 @@
 .aliengu.com
 .alive.bar
 .aljazeera.com
+.aljazeera.net
 .alkasir.com
 .all4mom.org
 .allcoin.com
@@ -1677,7 +1678,6 @@
 .dockerhub.com
 .dockerstatus.com
 .docs.cfw.lbyczf.com
-.docs.deno.com
 .docs.new
 .doctorvoice.org
 .documentingreality.com
@@ -2454,6 +2454,7 @@
 .gfw.press
 .gfw.report
 .gfwatch.org
+.gfwbao.com
 .gfwlist.end
 .gfwlist.start
 .gfx.ms
@@ -3408,6 +3409,7 @@
 .ismprofessional.net
 .isohunt.com
 .israbox.com
+.issues.chromium.org
 .issuu.com
 .istars.co.nz
 .istarshine.com
@@ -5755,6 +5757,7 @@
 .stboy.net
 .stc.com.sa
 .steamcommunity.com
+.steamladder.com
 .steamstatic.com
 .steel-storm.com
 .steemit.com
