@@ -65,6 +65,7 @@
 .25u.com
 .2du5.com
 .2lipstube.com
+.2mdn.net
 .2shared.com
 .2waky.com
 .3-a.net
@@ -2279,6 +2280,7 @@
 .freess.org
 .freessh.us
 .freetcp.com
+.freeterabox.com
 .freetibet.net
 .freetibet.org
 .freetibetanheroes.org
