@@ -2849,6 +2849,7 @@
 .greenvpn.org
 .grindr.com
 .grok.com
+.grokipedia.com
 .grotty-monday.com
 .ground.news
 .gs-discuss.com
