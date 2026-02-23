@@ -6114,6 +6114,7 @@
 .topsy.com
 .toptip.ca
 .toptoon.net
+.tor.eff.org
 .tora.to
 .torcn.com
 .torguard.net
@@ -6407,6 +6408,7 @@
 .unification.net
 .unification.org.tw
 .unirule.cloud
+.uniswap.org
 .unitedsocialpress.com
 .unity3d.com
 .unix100.com
