@@ -1249,6 +1249,7 @@
 .clarionproject.org
 .classicalguitarblog.net
 .claude.ai
+.claude.com
 .clb.org.hk
 .cldr.unicode.org
 .cleansite.biz
@@ -3861,6 +3862,7 @@
 .mansion.com
 .mansionpoker.com
 .manta.com
+.manus.im
 .manyvoices.news
 .maplew.com
 .marc.info
@@ -6927,7 +6929,6 @@
 .www.hoyolab.com
 .www.hustlercash.com
 .www.idlcoyote.com
-.www.imdb.com
 .www.kindleren.com
 .www.lamenhu.com
 .www.lorenzetti.com.br
