@@ -1616,6 +1616,7 @@
 .dmm.com
 .dns-dns.com
 .dns-stuff.com
+.dns.cloudflare.com
 .dns04.com
 .dns05.com
 .dns1.us
@@ -2628,6 +2629,7 @@
 .google.cv
 .google.cz
 .google.de
+.google.dev
 .google.dj
 .google.dk
 .google.dm
