@@ -156,6 +156,7 @@
 .a248.e.akamai.net
 .a5.com.ru
 .aamacau.com
+.aave.com
 .abc.com
 .abc.net.au
 .abc.pp.ru
