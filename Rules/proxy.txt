@@ -427,6 +427,7 @@
 .appsto.re
 .aptoide.com
 .arcgis.com
+.archive-it.org
 .archive.fo
 .archive.is
 .archive.li
@@ -1619,6 +1620,7 @@
 .dns-dns.com
 .dns-stuff.com
 .dns.cloudflare.com
+.dns.sb
 .dns04.com
 .dns05.com
 .dns1.us
@@ -1639,6 +1641,7 @@
 .doctorvoice.org
 .documentingreality.com
 .dogfartnetwork.com
+.doh.sb
 .dojin.com
 .dok-forum.net
 .dolc.de
@@ -1657,6 +1660,7 @@
 .doosho.com
 .doourbest.org
 .dorjeshugden.com
+.dot.sb
 .dotgov.gov
 .dotplane.com
 .dotsub.com
