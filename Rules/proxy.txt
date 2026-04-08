@@ -1384,6 +1384,7 @@
 .cpu-monkey.com
 .cq99.us
 .crackle.com
+.crashlytics.com
 .crazypool.org
 .crazys.cc
 .crazyshit.com
