@@ -341,11 +341,8 @@
 .aniscartujo.com
 .annas-archive.gd
 .annas-archive.gl
-.annas-archive.in
-.annas-archive.li
 .annas-archive.org
 .annas-archive.pk
-.annas-archive.pm
 .annas-archive.se
 .annatam.com
 .anobii.com
@@ -5260,6 +5257,7 @@
 .sb-cd.com
 .sbme.me
 .sbs.com.au
+.sbti.unun.dev
 .scache.vzw.com
 .scache1.vzw.com
 .scache2.vzw.com
