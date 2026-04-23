@@ -409,6 +409,7 @@
 .app-measurement.net
 .app.box.com
 .app.cloudcone.com
+.app.element.io
 .app.heywire.com
 .app.smartmailcloud.com
 .app.tutanota.com
@@ -468,6 +469,7 @@
 .asianspiss.com
 .asianwomensfilm.de
 .asiaone.com
+.asiasociety.org
 .asiatgp.com
 .asiatoday.us
 .ask.com
@@ -626,6 +628,7 @@
 .beijingzx.org
 .belamionline.com
 .bell.wiki
+.bellingcat.com
 .bemywife.cc
 .beric.me
 .berlinerbericht.de
@@ -3361,6 +3364,7 @@
 .ismprofessional.net
 .isohunt.com
 .israbox.com
+.issues.chromium.org
 .issuu.com
 .istars.co.nz
 .istarshine.com
@@ -3645,6 +3649,7 @@
 .lamnia.co.uk
 .lamrim.com
 .landofhope.tv
+.lantern.io
 .lantosfoundation.org
 .laogai.org
 .laogairesearch.org
@@ -5072,6 +5077,7 @@
 .raw.githack.com
 .rawgit.com
 .rawgithub.com
+.rawstory.com
 .razyboard.com
 .rcam.target.com
 .rcinet.ca
@@ -5091,6 +5097,7 @@
 .reason.com
 .rebatesrule.net
 .recaptcha.net
+.recordedfuture.com
 .recordhistory.org
 .recovery.org.tw
 .recoveryversion.com.tw
@@ -5156,6 +5163,7 @@
 .rmjdw.com
 .rmjdw132.info
 .roadshow.hk
+.roblox.com
 .roboforex.com
 .robustnessiskey.com
 .rocket-inc.net
@@ -5944,6 +5952,7 @@
 .thewgo.org
 .thewirechina.com
 .theync.com
+.thinkchina.sg
 .thinkgeek.com
 .thinkingtaiwan.com
 .thinkwithgoogle.com
