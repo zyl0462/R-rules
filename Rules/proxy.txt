@@ -5425,6 +5425,7 @@
 .siddharthasintent.org
 .sidelinesnews.com
 .sidelinessportseatery.com
+.sider.ai
 .sierrafriendsoftibet.org
 .signal.org
 .sijihuisuo.club
@@ -7264,6 +7265,7 @@
 .zhanbin.net
 .zhangboli.net
 .zhangtianliang.com
+.zhangzhehan.net
 .zhanlve.org
 .zhao.1984.city
 .zhenghui.org
