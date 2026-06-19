@@ -175,6 +175,7 @@
 .abs.edu
 .acast.com
 .accim.org
+.accountboy.com
 .accountkit.com
 .aceros-de-hispania.com
 .acevpn.com
@@ -4135,6 +4136,7 @@
 .monocloud.me
 .monster.com
 .moodyz.com
+.moomoo.com
 .moon.fm
 .moonbbs.com
 .moonbbs.info
@@ -7102,6 +7104,7 @@
 .xn--oiq.cc
 .xn--p8j9a0d9c9a.xn--q9jyb4c
 .xn--u2u927b.com
+.xn--vuqv2cf7wzyig79c.com
 .xnpool.com
 .xnxx-cdn.com
 .xnxx.com
