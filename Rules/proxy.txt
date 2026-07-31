@@ -6669,6 +6669,7 @@
 .uygur.org
 .uymaarip.com
 .v.gd
+.v.recipes
 .v.roucdn
 .v2.help
 .v2.hysteria.network
