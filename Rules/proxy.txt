@@ -4226,7 +4226,6 @@
 .movements.org
 .moves-export.com
 .moviefap.com
-.mozilla.ai
 .mozilla.org
 .moztw.org
 .mp3buscador.com
@@ -5162,7 +5161,6 @@
 .radio.garden
 .radioaustralia.net.au
 .radiohilight.net
-.radiojar.com
 .radioline.co
 .radiotime.com
 .radiovaticana.org
@@ -7102,7 +7100,6 @@
 .www.antd.org
 .www.aolnews.com
 .www.bing.com
-.www.clashverge.dev
 .www.cmoinc.org
 .www.dmm.com
 .www.eastturkistan.net
