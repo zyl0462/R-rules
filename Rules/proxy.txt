@@ -234,6 +234,7 @@
 .ai-wen.net
 .ai.dev
 .ai.studio
+.aihub.top
 .aiosearch.com
 .aiph.net
 .airasia.com
@@ -584,6 +585,7 @@
 .bartender.dowjones.com
 .barton.de
 .bartvpn.com
+.basemaps.arcgis.com
 .bastillepost.com
 .battle.net
 .battlenet.com
@@ -1916,6 +1918,7 @@
 .eroprofile.com
 .eroticsaloon.net
 .esg.t91y.com
+.esim.redteago.com
 .eslite.com
 .esmtp.biz
 .esurance.com
@@ -1955,6 +1958,7 @@
 .expatshield.com
 .expecthim.com
 .expekt.com
+.experience.arcgis.com
 .experts-univers.com
 .exploader.net
 .expofutures.com
