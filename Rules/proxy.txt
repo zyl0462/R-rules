@@ -682,6 +682,7 @@
 .bibliocommons.com
 .bibox.com
 .bic2011.org
+.bidobido.xyz
 .biedian.me
 .big.one
 .bigfools.com
@@ -691,6 +692,8 @@
 .bignews.org
 .bigone.com
 .bigsound.org
+.bikaios.xyz
+.bikawebapp.com
 .bild.de
 .bilinovel.com
 .biliworld.com
@@ -1645,6 +1648,7 @@
 .disquscdn.com
 .dit-inc.us
 .divdyn.com
+.diwodiwo.xyz
 .diyin.org
 .dizhidizhi.com
 .dizhuzhishang.com
@@ -3189,6 +3193,7 @@
 .htx.com
 .hua-yue.net
 .huaglad.com
+.huakacomic.com
 .huanghuagang.org
 .huangyiyu.com
 .huaren.us
@@ -3993,6 +3998,7 @@
 .mangafox.me
 .mangaup.jp
 .mangmang.run
+.manhuabika.com
 .manhuaren.com
 .maniash.com
 .manicur4ik.ru
@@ -4924,6 +4930,7 @@
 .phuquocservices.com
 .piaotia.com
 .piaotian.net
+.pica-id.com
 .picacomic.com
 .picacomiccn.com
 .picasaweb.com
@@ -6289,6 +6296,7 @@
 .tinypic.com
 .tinyurl.com
 .tipas.net
+.tipatipa.xyz
 .tistory.com
 .tkcs-collins.com
 .tl.gd
@@ -7034,6 +7042,7 @@
 .whyx.org
 .widevine.com
 .wikaba.com
+.wikawika.xyz
 .wiki.esu.im
 .wiki.gamerp.jp
 .wiki.jqueryui.com
