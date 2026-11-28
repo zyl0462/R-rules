@@ -239,6 +239,7 @@
 .ai-wen.net
 .ai.dev
 .ai.studio
+.aicu.cc
 .aidc.com.tw
 .aihub.top
 .aiosearch.com
@@ -1549,6 +1550,7 @@
 .danbooru.donmai.us
 .danilo.to
 .danke4china.net
+.danmakus.com
 .danwei.org
 .daolan.net
 .daozhongxing.org
@@ -5786,6 +5788,7 @@
 .sowers.org.hk
 .soylent.com
 .soylentnews.org
+.spacedesk.net
 .spaceforce.mil
 .spaces.hightail.com
 .spacex.com
